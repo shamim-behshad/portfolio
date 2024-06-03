@@ -1,0 +1,34 @@
+[
+  {
+    "title": "CoinSpotlight",
+    "imageSrc": "projects/coinspotlight.png",
+    "description": "Coin Spotlight is a web application that provides real-time cryptocurrency prices. Users can click on any coin to view detailed information about it. The project is built using React and fetches data from the CoinGecko API.",
+    "skills": ["React", "CSS", "JSX","Paralax"],
+    "demo": "https://shamim-behshad.github.io/CoinSpotlight/",
+    "source": "https://github.com/shamim-behshad/CoinSpotlight"
+  },
+  {
+    "title": "BistroBite",
+    "imageSrc": "projects/bistrobite.png",
+    "description": "This project is a responsive web page for a restaurant, designed using HTML, CSS, and JavaScript. It ensures an optimal viewing experience across various devices, adapting seamlessly to different screen sizes.",
+    "skills": ["Javascript","HTML", "CSS", "Swipers.js"],
+    "demo": "https://shamim-behshad.github.io/BistroBite/",
+    "source": "https://github.com/shamim-behshad/BistroBite"
+  },
+  {
+    "title": "LapMart",
+    "imageSrc": "projects/lapmart.png",
+    "description": "LapMart is a responsive e-commerce website for selling laptops, built with React and styled using Tailwind CSS. The site provides a user-friendly interface that adjusts smoothly to different screen sizes",
+    "skills": ["React","JS", "Tailwind CSS"],
+    "demo": "https://shamim-behshad.github.io/LapMart/",
+    "source": "https://github.com/shamim-behshad/LapMart"
+  },
+  {
+    "title": "TODO APP",
+    "imageSrc": "projects/todoapp.png",
+    "description": "The To-Do App is a task management application built with React and Node.js, featuring particle effects for enhanced visual appeal. Users can create, manage, and track tasks within the app's intuitive interface.",
+    "skills": ["React","Nodejs", "Docker","MySQL"],
+    "demo": "https://gitlab.com/imantadayon/todo-app",
+    "source": "https://gitlab.com/imantadayon/todo-app"
+  }
+]

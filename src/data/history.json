@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Collaborated with a team to successfully deliver a React Node.js project",
+    "organisation": "Freelance",
+    "experiences": ["Worked on the components", "Integrating Particles.js "],
+    "imageSrc": ""
+  },
+  {
+    "role": "Contributed to Dockerizing a React Node.js project to enhance deployment efficiency and scalability",
+    "organisation": "Freelance",
+    "experiences": [
+      "Compelete the entire react section",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/.png"
+  },
+  {
+    "role": "Participating in automating the process of transferring highway toll data to Excel required by the accounting section using Python",
+    "organisation": "",
+    "experiences": ["Python", "Excel"],
+    "imageSrc": "history/google.png"
+  }
+  
+]
